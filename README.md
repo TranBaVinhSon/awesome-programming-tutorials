@@ -22,6 +22,9 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ## Deep Learning  
 
+#### Books
+* [Deep Learning Book](http://www.deeplearningbook.org/) - A bestseller book about Deep Learning, written by top experts of AI. Really recommend this.
+
 ## Machine Learning
 
 #### Blog/Courses
