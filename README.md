@@ -9,11 +9,11 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 ## Table of Contents
 
   - [Android](#android)
-  - [Deep Learning](#deeplearning)
-  - [Machine Learning](#machinelearning)
+  - [Deep Learning](#deep-learning)
+  - [Machine Learning](#machine-learning)
   - [ReactJs](#reactjs)
   - [ReactNative](#reactnavtive)
-  - [Ruby On Rails](#rubyonrails)
+  - [Ruby On Rails](#ruby-on-rails)
 
 ## Android
 
