@@ -2,6 +2,10 @@
 
 A curated list of awesome programming tutorials
 
+## Contributing
+
+Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awesome-programming-tutorials/pulls)
+
 ## Table of Contents
 
   - [Android](#android)
