@@ -17,9 +17,16 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ## Android
 
+#### Blog/Courses
+* [Androidhive](https://www.androidhive.info/) - Really helpful blog for Android developers
+
 ## Deep Learning  
 
 ## Machine Learning
+
+#### Blog/Courses
+* [Machine Learning Mastery](https://machinelearningmastery.com/) - Learn a lots trick from there. Good blog for Machine Learning
+* [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert - Andrew Ng
 
 ## ReactJs
 
@@ -30,7 +37,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 #### Books
 * [Rails 5 Tutorail](https://www.railstutorial.org/) - One of the most popular resources for Rails developers (Free)
 
-#### Blog
+#### Blog/Courses
 * [RailsCasts](http://railscasts.com/) (Free)
 * [GoRails](http://gorails.com/) (Free + Pro)
 * [Leo's Courses](https://code4startup.com/projects) (Free + project based)
