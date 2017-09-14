@@ -42,8 +42,9 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 #### Blog
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Learn a lots trick from there. Good blog for Machine Learning
+* [Towards Data Science](https://medium.com/towards-data-science) - Sharing concepts, ideas and codes about Data Science.
 
-####Courses
+#### Courses
 * [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert of AI - Andrew Ng
 * [Machine Learning A-Z](https://www.udemy.com/machinelearning/) - A bestseller Machine Learning course on Udemy.
 
