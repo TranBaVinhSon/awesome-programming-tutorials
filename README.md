@@ -1,5 +1,5 @@
 # Awesome-programming-tutorials
-
+バカものだ
 A curated list of awesome programming tutorials
 
 ## Contributing
