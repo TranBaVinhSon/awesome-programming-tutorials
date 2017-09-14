@@ -59,11 +59,12 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 #### Blog
 * [Sello](https://medium.com/selleo) - Blog about rails.
+* [Ruby On Rails](https://medium.com/ruby-on-rails) - Tutorials and opinions about development in Ruby on Rails. I found a lots great articles in there.
 
 #### Books
 * [Rails 5 Tutorail](https://www.railstutorial.org/) - One of the most popular resources for Rails developers (Free)
 
 #### Courses
-* [RailsCasts](http://railscasts.com/) (Free)
-* [GoRails](http://gorails.com/) (Free + Pro)
-* [Leo's Courses](https://code4startup.com/projects) (Free + project based)
+* [RailsCasts](http://railscasts.com/) - Learn a lots of trick, useful things from there.(Free)
+* [GoRails](http://gorails.com/) - A new version of RailsCasts, really good content from begin to advance(Free + Pro)
+* [Leo's Courses](https://code4startup.com/projects) - Learning by create real startup(Free + project based)
