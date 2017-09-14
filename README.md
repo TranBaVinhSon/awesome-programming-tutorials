@@ -18,7 +18,8 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 ## Android
 
 #### Blog/Courses
-* [Androidhive](https://www.androidhive.info/) - Really helpful blog for Android developers
+* [Androidhive](https://www.androidhive.info/) - Really helpful blog for Android developers.
+* [Mindorks](https://blog.mindorks.com/) - All About Android App Development.
 
 ## Deep Learning  
 
