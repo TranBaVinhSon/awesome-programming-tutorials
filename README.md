@@ -1,6 +1,6 @@
 # Awesome-programming-tutorials
 
-A curated list of awesome programming tutorials
+A curated list of awesome programming tutorials: book, blog, course...
 
 ## Contributing
 
@@ -10,6 +10,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
   - [Android](#android)
   - [Deep Learning](#deep-learning)
+  - [Javascript](#javascript)
   - [Machine Learning](#machine-learning)
   - [ReactJs](#reactjs)
   - [ReactNative](#reactnavtive)
@@ -29,6 +30,14 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 #### Blog/Courses
 * [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning) - A course from top expert of AI - Andrew Ng
 * [Deep Learning A-Z](https://www.udemy.com/deeplearning/) - A bestseller Deep Learning course on Udemy. Learn to create Deep Learning Algorithms in Python.
+* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford University: Tensorflow for Deep Learning Research
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) - Stanford University: Deep Learning for Natural Language Processing
+
+## Javascript
+
+#### Blog/Courses
+* [egghead.io](https://egghead.io/courses)
+
 ## Machine Learning
 
 #### Blog/Courses
@@ -37,6 +46,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [Machine Learning A-Z](https://www.udemy.com/machinelearning/) - A bestseller Machine Learning course on Udemy.
 
 ## ReactJs
+* [React Training](https://reacttraining.com/) - Learn From React Community Leaders
 
 ## ReactNative
 
