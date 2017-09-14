@@ -25,11 +25,14 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 #### Books
 * [Deep Learning Book](http://www.deeplearningbook.org/) - A bestseller book about Deep Learning, written by top experts of AI. Really recommend this.
 
+#### Blog/Courses
+* [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning) - A course from top expert of AI - Andrew Ng
+
 ## Machine Learning
 
 #### Blog/Courses
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Learn a lots trick from there. Good blog for Machine Learning
-* [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert - Andrew Ng
+* [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert of AI - Andrew Ng
 
 ## ReactJs
 
