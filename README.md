@@ -58,6 +58,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 #### Resources 
 * [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem. 
+* [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps) - Learn from React apps written by experienced developers. 
 
 #### Courses
 * [React Training](https://reacttraining.com/) - Learn From React Community Leaders
