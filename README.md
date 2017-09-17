@@ -15,7 +15,8 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
   - [ReactJs](#reactjs)
   - [ReactNative](#reactnavtive)
   - [Ruby On Rails](#ruby-on-rails)
-
+  - [Git](#git)
+	
 ## Android
 
 #### Blog
@@ -36,8 +37,13 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ## Javascript
 
+#### Books
+* [Exploring ES6](http://exploringjs.com/es6/) - Upgrade to the next version of Javascript
+
 #### Courses
 * [egghead.io](https://egghead.io/courses)
+* [JavaScript Tutorial from W3School](https://www.w3schools.com/js/default.asp) - This tutorial will teach you JavaScript from basic to advanced.
+* [jQuery Tutorial from W3School](https://www.w3schools.com/jquery/default.asp) - jQuery greatly simplifies JavaScript programming.
 
 ## Machine Learning
 
@@ -51,10 +57,18 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ## ReactJs
 
+#### Resources 
+* [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem. 
+* [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps) - Learn from React apps written by experienced developers. 
+
 #### Courses
 * [React Training](https://reacttraining.com/) - Learn From React Community Leaders
+* [Redux](https://egghead.io/courses/getting-started-with-redux) - Getting Started with Redux. 
 
 ## ReactNative
+
+#### Resources 
+* [Awesome React Native](http://www.awesome-react-native.com/) - Awesome React Native components, news, tools, and learning material!
 
 ## Ruby On Rails
 
@@ -64,8 +78,15 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 #### Books
 * [Rails 5 Tutorail](https://www.railstutorial.org/) - One of the most popular resources for Rails developers (Free)
+* [Let's Build Instagram With Ruby on Rails](https://github.com/benwalks/Lets-Build-Instagram-Free-Book) - Let's build an Instagram clone with Ruby on Rails! 
+* [Ruby on Rails Guides](http://guides.rubyonrails.org/) - These guides are designed to make you immediately productive with Rails..
 
 #### Courses
 * [RailsCasts](http://railscasts.com/) - Learn a lots of trick, useful things from there.(Free)
 * [GoRails](http://gorails.com/) - A new version of RailsCasts, really good content from begin to advance(Free + Pro)
 * [Leo's Courses](https://code4startup.com/projects) - Learning by create real startup(Free + project based)
+
+## Git
+
+#### Books
+* [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress
