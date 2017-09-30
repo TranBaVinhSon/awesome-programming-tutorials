@@ -80,12 +80,12 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 #### Blog
 * [Sello](https://medium.com/selleo) - Blog about rails.
 * [Ruby On Rails](https://medium.com/ruby-on-rails) - Tutorials and opinions about development in Ruby on Rails. I found a lots great articles in there.
+* [Devwalks Blog](https://www.devwalks.com/blog/) - Found a lots awesome stuff in there. For example like building Instagram by Rails
 
 #### Books
 * [Rails 5 Tutorail](https://www.railstutorial.org/) - One of the most popular resources for Rails developers (Free)
 * [Let's Build Instagram With Ruby on Rails](https://github.com/benwalks/Lets-Build-Instagram-Free-Book) - Let's build an Instagram clone with Ruby on Rails!
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) - These guides are designed to make you immediately productive with Rails..
-* [Devwalks Blog](https://www.devwalks.com/blog/) - Found a lots awesome stuff in there. For example like building Instagram by Rails
 
 #### Courses
 * [RailsCasts](http://railscasts.com/) - Learn a lots of trick, useful things from there.(Free)
