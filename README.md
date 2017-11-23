@@ -9,6 +9,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 ## Table of Contents
 
   - [Android](#android)
+  - [CSS](#css)
   - [Deep Learning](#deep-learning)
   - [Javascript](#javascript)
   - [Git](#git)
@@ -23,6 +24,11 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [Androidhive](https://www.androidhive.info/) - Really helpful blog for Android developers.
 * [Mindorks](https://blog.mindorks.com/) - All About Android App Development.
 * [Simplified Coding](http://www.simplifiedcoding.net/) - Learn a lots android tricks from there.
+
+## CSS
+
+### Courses
+* [Flexbox CSS](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
 
 ## Deep Learning  
 
@@ -42,6 +48,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 #### Courses
 * [egghead.io](https://egghead.io/courses)
+* [Javascript30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials - No frameworks x No Compilers x No libraries x No boilerplate
 * [JavaScript Tutorial from W3School](https://www.w3schools.com/js/default.asp) - This tutorial will teach you JavaScript from basic to advanced.
 * [jQuery Tutorial from W3School](https://www.w3schools.com/jquery/default.asp) - jQuery greatly simplifies JavaScript programming.
 
