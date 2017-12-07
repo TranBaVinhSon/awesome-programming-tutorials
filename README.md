@@ -27,8 +27,12 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ## CSS
 
+### Blog
+* [CSS Tricks](https://css-tricks.com/) -  Over the years, CSS-Tricks has come to become a site about all things web design and development.
+
 ### Courses
 * [Flexbox CSS](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
+
 
 ## Deep Learning  
 
