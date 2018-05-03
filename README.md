@@ -24,6 +24,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [Androidhive](https://www.androidhive.info/) - Really helpful blog for Android developers.
 * [Mindorks](https://blog.mindorks.com/) - All About Android App Development.
 * [Simplified Coding](http://www.simplifiedcoding.net/) - Learn a lots android tricks from there.
+* [Android Instagram Clone](https://codingwithmitch.com/courses/instagram-clone/) - A step-by-step guide to build your own Android Instagram Clone (Email Authentication, Database, Cloud-Storage)
 
 ## CSS
 
