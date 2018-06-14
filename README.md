@@ -110,3 +110,5 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 
 ### Blog
 * [Alligator](https://alligator.io/vuejs/) - Not just about Vue. This blog is all about front-end.
+* [A Killer Vue.js Blog Demo: Launch in 2 Hours Tops](https://snipcart.com/blog/vuejs-blog-demo)
+* [Vuejs Developers](https://medium.com/js-dojo) - Vue.js Developers' mission is to up your skill and knowledge of Vue.js and related tools, beyond what's in the official documentation. 
