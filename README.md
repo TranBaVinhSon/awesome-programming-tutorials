@@ -26,6 +26,8 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [Mindorks](https://blog.mindorks.com/) - All About Android App Development.
 * [Simplified Coding](http://www.simplifiedcoding.net/) - Learn a lots android tricks from there.
 * [Android Instagram Clone](https://codingwithmitch.com/courses/instagram-clone/) - A step-by-step guide to build your own Android Instagram Clone (Email Authentication, Database, Cloud-Storage)
+* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
+* [Kotlin Academy](https://blog.kotlin-academy.com/) - Site with mission to simplify Kotlin learning
 
 ## CSS
 
@@ -113,4 +115,4 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [A Killer Vue.js Blog Demo: Launch in 2 Hours Tops](https://snipcart.com/blog/vuejs-blog-demo)
 * [Vuejs Developers](https://medium.com/js-dojo) - Vue.js Developers' mission is to up your skill and knowledge of Vue.js and related tools, beyond what's in the official documentation.
 * [Made with Vue](https://madewithvuejs.com/) - A collection of projects made with vue.js
-* [Vue Cookbook](https://vuejs.org/v2/cookbook/) - Form Validation, Dockerize Vue App... 
+* [Vue Cookbook](https://vuejs.org/v2/cookbook/) - Form Validation, Dockerize Vue App...
