@@ -28,6 +28,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 * [Android Instagram Clone](https://codingwithmitch.com/courses/instagram-clone/) - A step-by-step guide to build your own Android Instagram Clone (Email Authentication, Database, Cloud-Storage)
 * [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Kotlin Academy](https://blog.kotlin-academy.com/) - Site with mission to simplify Kotlin learning
+* [EDMT Dev](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg) - One of best Android channel on Youtube
 
 ## CSS
 
