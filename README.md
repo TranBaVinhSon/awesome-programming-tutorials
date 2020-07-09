@@ -86,6 +86,7 @@ Please feel free to send me [pull requests](https://github.com/TranBaVinhSon/awe
 #### Courses
 * [React Training](https://reacttraining.com/) - Learn From React Community Leaders
 * [Redux](https://egghead.io/courses/getting-started-with-redux) - Getting Started with Redux.
+* [React Hooks] (https://www.valentinog.com/blog/hooks/) - Getting Started with React Hooks
 
 ## ReactNative
 
